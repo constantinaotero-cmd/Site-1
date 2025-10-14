@@ -31,4 +31,35 @@ table{
 }
 body{
 	background-image: url(cakeBg.jpeg);
+	background-size: 300px;
+	background-repeat: repeat-y;
+	background-position: right top;
+}
+
+img{
+	border-radius: 25px;
+}
+
+img:hover{
+	opacity: 0.75;
+}
+
+ul{
+	list-style-type: none;
+	background-color: #f2d3d0;
+	overflow:hidden;
+}
+li a{
+ 	float:left;
+	display:block;
+	width:100px;
+	text-align: center;
+	padding: 15px 15px;
+	text-decoration: none;
+}
+li a:hover{
+	background-color: #ed6dba;
+}
+.active{
+	border-bottom: 2px solid #f54272;
 }
