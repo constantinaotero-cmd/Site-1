@@ -1,65 +1,17 @@
 
 h1{
-	color: #87551b;
+	color:#3e3c1f;
+	font-size: 84pt;
 }
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' #c64d39,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24;
+  color: #c64d39;
 
-body{
-	background-color: #fff;
-}
-
-p{
-	color: #f00;
-}
-
-.greenParagraph{
-	color: #0f0;
-}
-
-table, td{
-	border-style: dashed;
-}
-
-td{
-	border-width: 2px;
-	border-color: #aa2356;
-}
-table{
-	border-width: 4px;
-	border-color: #34ab56;
-	margin-left: auto;
-	margin-right: auto;
 }
 body{
-	background-image: url(cakeBg.jpeg);
-	background-size: 300px;
-	background-repeat: repeat-y;
-	background-position: right top;
-}
-
-img{
-	border-radius: 25px;
-}
-
-img:hover{
-	opacity: 0.75;
-}
-
-ul{
-	list-style-type: none;
-	background-color: #f2d3d0;
-	overflow:hidden;
-}
-li a{
- 	float:left;
-	display:block;
-	width:100px;
-	text-align: center;
-	padding: 15px 15px;
-	text-decoration: none;
-}
-li a:hover{
-	background-color: #ed6dba;
-}
-.active{
-	border-bottom: 2px solid #f54272;
+	background-image: url(imagen.png); width: 100%;
 }
