@@ -13,16 +13,34 @@ h1{
 
 }
 body{
-	background-image: url(imagen.png); width: 100%;
+	
 }
 h2{
   color:#e8cfc1;
-  font-size: 25pt;
+  font-size: 30pt;
 }
 h3{
   color:#e8cfc1;
-  font-size: 45pt;
+  font-size: 50pt;
 }
 .page2{
   background-color:#ce6857;
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24;
+  font-size: 100px;
+  color:#000000;
+}
+h4{
+  color:#433c1f;
+  font-size: 300pt;
+}
+h5{
+  color:#433c1f;
+  font-size: 80px;
 }
