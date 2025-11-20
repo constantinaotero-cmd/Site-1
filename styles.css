@@ -27,7 +27,7 @@ h3{
   background-color:#ce6857;
 }
 
-.material-symbols-outlined {
+.page2 {
   font-variation-settings:
   'FILL' 0,
   'wght' 400,
@@ -38,9 +38,13 @@ h3{
 }
 h4{
   color:#433c1f;
-  font-size: 300pt;
+  font-size: 120pt;
 }
 h5{
   color:#433c1f;
-  font-size: 80px;
+  font-size: 30px;
+}
+h6{
+  color: #433c1f;
+  font-size: 30px;
 }
